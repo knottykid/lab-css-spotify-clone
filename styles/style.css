@@ -1,8 +1,150 @@
+
+
 /*
 Colors:
 
 Text: 1A1A1A
 Green: #00B172
 White: #FFF
-
 */
+
+
+header, nav {
+text-align:justify;
+  background: white;
+  margin: 0 ;
+  
+}
+.bar {
+    position: fixed;
+    margin: o;
+    padding: 0;
+    align-self: start;
+}
+
+.bar img {
+  width: 20%;
+  display: flex;
+  align-content: space-between;
+  
+}
+
+
+nav ul, a{
+    color: #000;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin:  0;
+    padding: 0%;
+    margin-left: 60%;
+    
+    
+}
+
+
+.concert {
+    text-align: center;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url("/images/landing.jpg");
+    background-position: 0 0;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100vw;
+    height: 50vw;
+     
+
+}
+
+
+.sup {
+    text-align: center;
+    
+}
+
+
+
+
+
+
+.music {
+    width: 60px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 75px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 370px;
+}
+.icons p{
+    margin:auto;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.icons h3{
+    color: #00B172;
+    text-align: center;
+}
+
+#verde {
+    background-color: #00B172;
+    background-position: relative;
+   
+    }
+
+    .text {
+        display: flex;
+        justify-content:flex-start;
+        align-items: flex-start;
+        color: #FFF;
+        flex-direction: column;
+    }
+    .grun{
+        display: flex;
+        justify-content: center;
+        align-items:initial;
+        flex-direction:row;
+        o
+        margin: 0 auto;   
+        
+    }
+    p {
+        font-size: small;
+        font-style: normal;
+        text-align: justify;
+    }
+
+    .kanye {
+    width: 30%;
+    
+    }
+    
+        
+    
+        
+    
+
+.spoty {
+    position: absolute;
+    width: 10%;
+
+    
+}
+
